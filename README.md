@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lusajo143
 - 👀 I’m interested in android development, artificial intelligence, computer vision
-- 🌱 I’m currently learning assembly language
+- 🌱 I’m currently blockchain technology using hyperledger fabric
 - 💞️ I’m looking to collaborate on android development and blockchain technology
 - 📫 Reach me using lusajoshitindi143@gmail.com
 
