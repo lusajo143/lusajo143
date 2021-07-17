@@ -5,7 +5,7 @@
 - 📫 Reach me using lusajoshitindi143@gmail.com or lusajoshitindi@techdealers.org
 - ⛲ Founder of Techdealers.org
 
-### 🌍 [Techdealers.org](www.techdealers.org)
+### 🌍 [Techdealers.org](https://www.techdealers.org)
 Contact us for:
   - Mobile apps development
   - Websites development
