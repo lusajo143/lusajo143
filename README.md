@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning blockchain technology using hyperledger fabric
 - 💞️ I’m looking to collaborate on android development and blockchain technology
 - 📫 Reach me using lusajoshitindi143@gmail.com or lusajoshitindi@techdealers.org
-- ⛲ Founder of Techdealers.org
 
 ### 🌍 [Techdealers.org](https://www.techdealers.org)
 Contact us for:
