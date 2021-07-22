@@ -1,6 +1,7 @@
 
-# Hi, I’m Lusajo Shitindi, a software developer
-- 👀 I’m interested in android development, artificial intelligence, computer vision
+# Hi 👋, I’m Lusajo Shitindi, a software developer
+
+- 👀 I’m interested in mobile development, artificial intelligence, computer vision
 - 🌱 I’m currently learning blockchain technology using hyperledger fabric
 - 💞️ I’m looking to collaborate on android development and blockchain technology
 - 📫 Reach me using lusajoshitindi143@gmail.com or lusajoshitindi@techdealers.co.tz
