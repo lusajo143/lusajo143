@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @lusajo143
+# Hi, I’m Lusajo Shitindi, a software developer
 - 👀 I’m interested in android development, artificial intelligence, computer vision
 - 🌱 I’m currently learning blockchain technology using hyperledger fabric
 - 💞️ I’m looking to collaborate on android development and blockchain technology
