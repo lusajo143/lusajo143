@@ -1,5 +1,5 @@
 
-# Hi 👋, I’m Lusajo Shitindi, a software developer
+# Hi 👋, I’m Lusajo Shitindi, a Software developer
 
 - 👀 I’m interested in mobile development, artificial intelligence, computer vision
 - 🌱 I’m currently learning blockchain technology using hyperledger fabric and Ethereum
